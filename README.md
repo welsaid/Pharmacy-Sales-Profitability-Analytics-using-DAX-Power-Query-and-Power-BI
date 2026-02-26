@@ -41,5 +41,5 @@ Some pharmacies have consistently underperformed over the past two years, while 
 ---
 ### Key Insights
 - Germany which is the most profitable country (€439M), accounted for the majority of revenue and demand (€1.5M and €75,677 respectively).
-- While prescription drugs dominated transaction volume, non-promoted sales significantly outperformed promoted items, accounting for 92.5% of total profit. In contrast, promoted products contributed only 7.5%, suggesting limited profitability impact from promotional activities.
+- Non-promoted sales significantly outperformed promoted items, accounting for 92.5% of total profit. In contrast, promoted products contributed only 7.5%, suggesting limited profitability impact from promotional activities.
 
