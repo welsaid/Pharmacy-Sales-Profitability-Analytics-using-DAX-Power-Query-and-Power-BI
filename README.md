@@ -1,4 +1,4 @@
-# Pharmacy Sales Profitability Analytics Report
+<img width="2004" height="2439" alt="Picture1" src="https://github.com/user-attachments/assets/d8dae54c-bb30-4642-bdfd-10f9c858220c" /><img width="2004" height="2439" alt="Picture1" src="https://github.com/user-attachments/assets/498c6c75-789d-4ab3-931c-82c434056864" /># Pharmacy Sales Profitability Analytics Report
 
 ### Project Overview
 A major pharmacy chain distributor operating across multiple European countries seeks to improve the overall performance of pharmacies in operation by implementing the right strategies and policies. This project analyses the business data to uncover patterns in transactions, comparing profitability against volume and recommending data−driven solutions that encourages both growth and scalability.
@@ -9,7 +9,7 @@ Some pharmacies have consistently underperformed over the past two years, while 
 
 ---
 ### Business Questions Answered
-- Are there differences in seasonal pattern against the overall trend?
+- How strong is the seasonality effect compared to overall trend?
 -	Which countries and regions contribute the most to revenue and profitability?
 -	Are poor performances due to the market or poor execution? 
 -	How do promoted sales compare to non-promoted sales in performance
@@ -36,6 +36,7 @@ Some pharmacies have consistently underperformed over the past two years, while 
  
 ---
 ### Dashboard
+<img width="2004" height="2439" alt="Picture1" src="https://github.com/user-attachments/assets/6a3cbd0e-e416-4c63-9c7f-1063fb3d7387" />
 
 ---
 ### Key Insights
