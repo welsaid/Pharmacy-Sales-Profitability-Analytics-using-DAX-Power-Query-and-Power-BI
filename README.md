@@ -39,10 +39,13 @@ Some pharmacies have consistently underperformed over the past two years, while 
 
 ---
 ### Key Insights
+- 
 - Germany which is the most profitable country (€439M), accounted for the majority of revenue and demand (€1.5M and €75,677 respectively).
-- Non-promoted sales significantly outperformed promoted items, accounting for 92.5% of total profit. In contrast, promoted products contributed only 7.5%, suggesting limited profitability impact from promotional activities.
-- Over 70% of weak performers produced the same result as other pharmacies in the same region, suggesting a market problem.
-- Profitability differs significantly by country, with higer margins concentrated at Germany and lower margins in Austria.
+- While Non-promoted sales significantly outperformed promoted items and accounted for 92.5% of total profit, promoted products contributed only 7.5%, suggesting limited profitability impact from promotional activities.
+- Over 70% of weak performers produced the same result as other pharmacies operating in the same region, suggesting a market problem
+- Profitability differs significantly by country, with higer margins concentrated in German cities and lower margins in Austria.
 
 ---
 ### Recommendations
+- Consider curating tailored discount and promotional activities in countries with low performance
+- Promoted products with low profit should be paired up with other product as part of a combo
