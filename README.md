@@ -9,9 +9,10 @@ Some pharmacies have consistently underperformed over the past two years, while 
 
 ---
 ### Business Questions Answered
+- How strong is seasonality effect compaired to overall trend?
 -	Which countries and regions contribute the most to revenue and profitability?
 -	Are poor performances due to the market or poor execution? 
--	How do promoted sales compare to non-promoted sales in performance
+-	How do promoted sales compare to non-promoted sales in performance?
 -	Are there visible geographical differences in profitability?
 
 ---
@@ -39,13 +40,19 @@ Some pharmacies have consistently underperformed over the past two years, while 
 
 ---
 ### Key Insights
-- Germany which is the most profitable country (€439M), accounted for the majority of revenue and demand (€1.5M and €75,677 respectively).
-- While Non-promoted sales significantly outperformed promoted items and accounted for 92.5% of total profit, promoted products. contributed only 7.5%, suggesting limited profitability impact from promotional activities.
-- 70% pharmacies recorded high revenue as opposed to other with lower revenue in the same region, suggesting an issue in execution.
-- The analysis reveals a high revenue impact across from German Cities.
+- Revenue shows monthly fluctuations with stronger mid-year sales, indicating seasonal demand, while profit margin stays stable at **28%**, reflecting effective cost control.
+- Germany and France which are the most profitable countries generated the highest revenue (**€781M** and **€705M** respectively), confirming western europe as the core market.
+- Urban areas leads overall performace with over **€490M** in profits followed by Surburban with **€448M**, showing reliance on high-density areas.
+- Milan and Hamburg Healthpoint outlets are top performers, while Warsaw and Graz rank lowest, highlighting operational gaps.
+- Non-promotional sales significantly dominated with **92.5%** of total profit vs **7.5%** promoted sales, indicating limited profitability impact from promotional activities.
+- Prescription products (premium) drive the most revenue, and medium-sized products contribute **44%** of sales.
+- Regional and operational differences reveal opportunities for targeted optimization and scalability.
 
 ---
 ### Recommendations
-- Promoted products with low impact should be paired up with other high-impact products as part of a combo
-- Consider improving the product assortment and operational effectiveness of pharmacies with low perforing products
-- High priority should be given to regions with having low revenue impact while still considering scaling regions with high performance.
+- Align inventory and staffing to mid-year demand peaks, while using off-peak periods for margin promoted promotions.
+- Promoted products with low impact should be paired up with high-impact products as part of a combo.
+- Optimize the availability of prescription drugs which drives a large share of revenue
+- Improve the product assortment and pricing startegies of pharmacies in rural areas.
+- Consider scaling business in Germany and France which are our core markets.
+- Targeted incentive programs should be introduced to encourage peformance in regions with low overall impact.
