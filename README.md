@@ -11,6 +11,7 @@ Some pharmacies have consistently underperformed over the past two years, while 
 ### Business Questions Answered
 - How strong is seasonality effect compaired to overall trend?
 -	Which countries and regions contribute the most to revenue and profitability?
+-	How do sales volume and profitability vary across Urban, Suburban, and Rural pharmacies?
 -	Are poor performances due to the market or poor execution? 
 -	How do promoted sales compare to non-promoted sales in performance?
 -	Are there visible geographical differences in profitability?
