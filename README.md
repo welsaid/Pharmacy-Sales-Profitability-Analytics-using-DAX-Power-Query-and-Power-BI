@@ -52,7 +52,11 @@ Some pharmacies have consistently underperformed over the past two years, while 
 ### Recommendations
 - Align inventory and staffing to mid-year demand peaks, while using off-peak periods for margin promoted promotions.
 - Promoted products with low impact should be paired up with high-impact products as part of a combo.
-- Optimize the availability of prescription drugs which drives a large share of revenue
+- Optimize the availability of prescription drugs which drives a large share of revenue.
 - Improve the product assortment and pricing startegies of pharmacies in rural areas.
 - Consider scaling business in Germany and France which are our core markets.
 - Targeted incentive programs should be introduced to encourage peformance in regions with low overall impact.
+
+---
+### Conclusion
+The business, now equipped with insights identifying areas of performance gaps, can leverage the data-driven recommendations provided to implement strategies that support sustainable growth and scalability.
